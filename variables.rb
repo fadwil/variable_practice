@@ -1,8 +1,8 @@
 email = "wrfady@gmail.com"
 puts email 
-first_name = Wil
+first_name = "Wil"
 puts first_name
-last_name = Fady
+last_name = "Fady"
 puts last_name
 
 age = 32
@@ -21,7 +21,7 @@ received_email = true
 
 email = "btsady@gmail.com"
 puts email
-first_name = Bill
+first_name = "Bill"
 puts first_name
-last_name = Sady
+last_name = "Sady"
 puts last_name
