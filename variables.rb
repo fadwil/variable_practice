@@ -10,3 +10,6 @@ pi = 3.14
 account_balance = -1200.00
 weight = 180.5
 
+deposit_paid = true
+currently_online = false
+received_email = true
